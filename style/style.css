@@ -42,6 +42,7 @@ body {
     display: flex;
     max-width: 900px;
     flex-wrap: wrap;
+    margin: 2% 0 0 10%;
 }
 
 .review {
