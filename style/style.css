@@ -10,6 +10,7 @@ main {
 /*правило для элементов относящихся к классу a_footer*/
 .a_footer {
     display: block;
+    color:rgb(255, 255, 255);
 }
 h1 {
     text-align: center;
@@ -31,8 +32,8 @@ adress {
 body {
     font-family: "ABeeZee", sans-serif;
     font-family: "Open Sans", sans-serif;
-    background-color: #000308;
-    color: white;
+    background: url('https://i.stack.imgur.com/JICXS.jpg');
+    color: rgb(255, 255, 255);
 }
 
 
